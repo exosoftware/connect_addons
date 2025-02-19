@@ -17,6 +17,9 @@ venv.bak/
 # VS Code
 .vscode/
 
+# Jetbrains
+.idea/
+
 .DS_Store
 ._.DS_Store
 .*.swp
